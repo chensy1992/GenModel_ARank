@@ -3,6 +3,7 @@ from PIL import Image
 import os
 from os import path
 
+# this is a test
 labels = ["sea", "block ice", "paper cloud", "thick cloud", "trash ice"]
 
 img_path = "imgs"
